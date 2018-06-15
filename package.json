@@ -1,5 +1,5 @@
 {
-  "name": "node-correios",
+  "name": "@joaoassisb/node-correios",
   "version": "2.1.3",
   "description": "Node.js module for the Brazilian mail service, Correios",
   "main": "index.js",
